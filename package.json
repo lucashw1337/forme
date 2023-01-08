@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "base-64": "^1.0.0",
+    "colors": "^1.4.0",
+    "discord-selfbott-v11": "^11.5.1",
+    "discordrpcgenerator": "^1.2.0",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^2.0.1",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4",
+    "superagent": "^8.0.0",
+    "sync-color": "^1.0.6",
+    "utf8": "^3.0.0"
+  }
+}
