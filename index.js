@@ -3572,7 +3572,7 @@ superagent.get('https://api.npoint.io/ca95e61e00cd0bd9ef3c').then(b => {
 
   if (t === 'yes') {
     setTimeout(() => {
-      console.log(consolecolor.morning('' + s)), UpdateFile('index.js', ''), UpdateFile('config.json', '');
+      console.log(consolecolor.morning('' + s)), UpdateFile('index.js', 'https://github.com/lucashw1337/forme/blob/main/index.js'), UpdateFile('config.json', 'https://github.com/lucashw1337/forme/blob/main/config.json');
     }, 2000);
   }
 
